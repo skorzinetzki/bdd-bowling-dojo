@@ -71,6 +71,12 @@
     </None>
     <None Include="packages.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\lise.dojo.bowling\lise.dojo.bowling.csproj">
+      <Project>{C19B3C2D-7DC5-40C4-8B54-7F50DF6E07FC}</Project>
+      <Name>lise.dojo.bowling</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.
