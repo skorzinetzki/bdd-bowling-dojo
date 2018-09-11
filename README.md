@@ -36,7 +36,7 @@ Now that you have set up scenarios and generated the steps code, you should make
 This solution is set up with NUnit and FluentAssertions, here are some helpful links when using these libaries:
 * [SpecFlow Documentation](http://specflow.org/documentation/)
 * [NUnit Documentation](https://github.com/nunit/docs/wiki/NUnit-Documentation)
-* [FluentAssertions Documentation](https://github.com/dennisdoomen/fluentassertions/wiki)
+* [FluentAssertions Documentation](https://fluentassertions.com/documentation)
 
 ## Credits
 written by [Steve Korzinetzki](https://twitter.com/skorzinetzki)
